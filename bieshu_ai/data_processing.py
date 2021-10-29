@@ -42,6 +42,13 @@ class DataLoader(DataLoaderBase):
             return x, y
 
     def format_label(self, y):
+        """
+            格式化输入标签类别
+            args:
+                y: list, eg: [3, 0, 2]
+            return:
+                format_y: list, eg:[[0, 0, 0, 1], [1, 0, 0, 0], [0, 0, 1, 0]]
+        """
         format_y = []
         for i in y:
             format_i = [0] * self.class_num
