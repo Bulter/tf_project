@@ -1,0 +1,60 @@
+No.0--> step.0 training loss: 2.307450771331787
+No.0--> step.10 training loss: 2.163001775741577
+No.0--> step.20 training loss: 1.9778310060501099
+No.0--> step.30 training loss: 1.7478965520858765
+No.0--> step.40 training loss: 1.4215267896652222
+No.0-------------> training loss: 1.8402175903320312
+No.1--> step.0 training loss: 1.216048240661621
+No.1--> step.10 training loss: 0.9889448285102844
+No.1--> step.20 training loss: 0.890653133392334
+No.1--> step.30 training loss: 0.7757772207260132
+No.1--> step.40 training loss: 0.6927469968795776
+No.1-------------> training loss: 0.8689501881599426
+No.2--> step.0 training loss: 0.6834564805030823
+No.2--> step.10 training loss: 0.5809307098388672
+No.2--> step.20 training loss: 0.5248241424560547
+No.2--> step.30 training loss: 0.5068120360374451
+No.2--> step.40 training loss: 0.47314196825027466
+No.2-------------> training loss: 0.5424310564994812
+No.3--> step.0 training loss: 0.5076010227203369
+No.3--> step.10 training loss: 0.45785126090049744
+No.3--> step.20 training loss: 0.40689030289649963
+No.3--> step.30 training loss: 0.4239555299282074
+No.3--> step.40 training loss: 0.403912752866745
+No.3-------------> training loss: 0.4375421702861786
+No.4--> step.0 training loss: 0.45091110467910767
+No.4--> step.10 training loss: 0.4110643267631531
+No.4--> step.20 training loss: 0.370391845703125
+No.4--> step.30 training loss: 0.3924468755722046
+No.4--> step.40 training loss: 0.37586510181427
+No.4-------------> training loss: 0.3982461392879486
+No.5--> step.0 training loss: 0.42403802275657654
+No.5--> step.10 training loss: 0.3837156891822815
+No.5--> step.20 training loss: 0.3492804169654846
+No.5--> step.30 training loss: 0.37306177616119385
+No.5--> step.40 training loss: 0.35694146156311035
+No.5-------------> training loss: 0.3751353323459625
+No.6--> step.0 training loss: 0.4064268171787262
+No.6--> step.10 training loss: 0.3641863167285919
+No.6--> step.20 training loss: 0.333434134721756
+No.6--> step.30 training loss: 0.3586462438106537
+No.6--> step.40 training loss: 0.34089404344558716
+No.6-------------> training loss: 0.35771825909614563
+No.7--> step.0 training loss: 0.39168933033943176
+No.7--> step.10 training loss: 0.34804466366767883
+No.7--> step.20 training loss: 0.3199225962162018
+No.7--> step.30 training loss: 0.3464103937149048
+No.7--> step.40 training loss: 0.32656943798065186
+No.7-------------> training loss: 0.3430798649787903
+No.8--> step.0 training loss: 0.37882837653160095
+No.8--> step.10 training loss: 0.3345228433609009
+No.8--> step.20 training loss: 0.30814528465270996
+No.8--> step.30 training loss: 0.33557477593421936
+No.8--> step.40 training loss: 0.31339317560195923
+No.8-------------> training loss: 0.3301246762275696
+No.9--> step.0 training loss: 0.367016077041626
+No.9--> step.10 training loss: 0.32288870215415955
+No.9--> step.20 training loss: 0.29751673340797424
+No.9--> step.30 training loss: 0.3251372277736664
+No.9--> step.40 training loss: 0.3006837069988251
+No.9-------------> training loss: 0.3182618319988251
